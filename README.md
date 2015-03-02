@@ -29,5 +29,4 @@ Le sujet chiffré du rush est inclu dans le repo (sujet.pdf.enc). Décodez-le av
     ./elcrypt -d -f sujet.pdf.enc -o sujet.pdf -k 0x0123456789ABCDEF
 
 With love,
-
 barrau_h.
