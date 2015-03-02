@@ -22,5 +22,12 @@ DES ou Blowfish (schéma de Feistel). Très gros challenge : délai de 48 heures
     * -o : destination
     * -k : clé (héxadécimale) Ex : 0x0123456789ABCDEF
 
+# Info
+
+Le sujet chiffré du rush est inclu dans le repo (sujet.pdf.enc). Décodez-le avec la clé 0x0123456789ABCDEF pour pouvoir le lire ;)
+
+    ./elcrypt -d -f sujet.pdf.enc -o sujet.pdf -k 0x0123456789ABCDEF
+
 With love,
+
 barrau_h.
