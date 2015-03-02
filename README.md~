@@ -1,6 +1,6 @@
 # ElCrypt
 
-Rush de première année à Epitech. Réalisation d'un programme de chiffrement symétrique similaire à
+Rush de première année à Epitech. Réalisation d'un programme de chiffrement symétrqiue similaire à
 DES ou Blowfish (schéma de Feistel). Très gros challenge : délai de 48 heures pour rendre.
 
 # L'essentiel :
@@ -13,7 +13,6 @@ DES ou Blowfish (schéma de Feistel). Très gros challenge : délai de 48 heures
     * Code propre, clair et optimisé au maximum (de mes compétences).
 
 # Utilisation :
-
     ./elcrypt -e/d -f [fichier source] -o [fichier destination] -k [clé]
 
     * -e : chiffrement
